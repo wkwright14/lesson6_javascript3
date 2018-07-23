@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
-    Author: 
-    Date:   
+    Author: Whitney Wright
+    Date:   07/22/18
     Filename: photos.js
     
  */
